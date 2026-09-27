@@ -1,28 +1,25 @@
-Hi there 👋
+# Hi there, I'm Jeriel 👋 🇵🇷
 
-My name is Christian J. Cruz, but Jeriel is my preferred name.
+> 💻 **Digital Detective & Systems Tinkerer**  
+> 🕯️ *Bridging dark aesthetics with low-level systems.*
 
-Bio:
-💻 Digital Detective & Systems Tinkerer
-🛡️ M.S. Computer Science — Network & Security
-🌐 HTML/CSS & Python Developer
-🕯️ Bridging dark aesthetics with low-level systems.
-🍏 Apple Hardware • 🧠 Ambidextrous / Southpaw
-🎧 Underground Soundtracks:
-Billie Eilish 🕷️ | Korn 🪕 | Slipknot 👺 | Manson 👁️
-🇵🇷 Borikén — Building in the dark.
-    
-<!--
-**anxietyaesthetic/anxietyaesthetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛡️ About Me
+* 🎓 **Degree:** M.S. Computer Science — *Network & Security*
+* 🐍 **Stack:** Python | HTML/CSS | JS | Network Analysis
+* ⚙️ **Focus:** Parsing packets, reverse engineering & front-end UI
+* 🍏 **Gear:** Deep in the Apple Ecosystem
+* 🧠 **Fun Fact:** Born Southpaw, wired ambidextrous
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning how to 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎧 Underground Soundtracks
+`Billie Eilish 🕷️` • `Korn 🪕` • `Slipknot 👺` • `Marilyn Manson 👁️`
+
+---
+
+### ⚡ Quick Stats & Vibes
+```text
+Location : Borikén 📍
+Status   : Building in the dark... 🌙
