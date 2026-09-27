@@ -2,13 +2,15 @@ Hi there 👋
 
 My name is Christian J. Cruz, but Jeriel is my preferred name.
 
-Facts about me are:
-- I'm currently studying a Master's Degree in Computer Science with a Network and Security Specialty
-- Currently, learning how to program Web Pages using HTML and CSS. After learning how to be proficient in those programming languages, I want to start with SQL Databases.
-- Fun Facts:
-  – Born Lefty, Meant to be Right-Handed.
-  – Addicted to Apple Products.
-  – Late 20s guy looking like Late Teens.
+Bio:
+💻 Digital Detective & Systems Tinkerer
+🛡️ M.S. Computer Science — Network & Security
+🌐 HTML/CSS & Python Developer
+🕯️ Bridging dark aesthetics with low-level systems.
+🍏 Apple Hardware • 🧠 Ambidextrous / Southpaw
+🎧 Underground Soundtracks:
+Billie Eilish 🕷️ | Korn 🪕 | Slipknot 👺 | Manson 👁️
+🇵🇷 Borikén — Building in the dark.
     
 <!--
 **anxietyaesthetic/anxietyaesthetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
